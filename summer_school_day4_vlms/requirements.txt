@@ -1,0 +1,7 @@
+torch==2.7.1
+huggingface_hub
+ollama
+Pillow
+Requests
+transformers
+datasets
